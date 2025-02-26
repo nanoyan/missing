@@ -9,7 +9,7 @@
         "type": "string",
         "pattern": "^[A-Za-z_]+$",
         "description": "Identifier for missing",
-        "examples": ["mnr", "mir", "mb"]
+        "examples": ["mnr", "mir", "maaaaaa"]
       },
       "label": {
         "type": "string",
