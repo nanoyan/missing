@@ -42,7 +42,7 @@
 ```
 
 ```json
-"mb"
+"maaaaaa"
 ```
 
 | Restrictions                      |                                                                                                    |
@@ -87,4 +87,4 @@
 ```
 
 ----------------------------------------------------------------------------------------------------------------------------
-Generated using [json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) on 2025-02-26 at 09:27:22 +0000
+Generated using [json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) on 2025-02-26 at 09:34:11 +0000
